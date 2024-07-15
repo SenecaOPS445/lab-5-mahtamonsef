@@ -1,0 +1,248 @@
+test_0 (__main__.lab5a.test_0)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for file creation: ./lab5a.py ... ok
+test_a (__main__.lab5a.test_a)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for errors running: ./lab5a.py ... ok
+test_a1 (__main__.lab5a.test_a1)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for correct shebang line: ./lab5a.py ... FAIL
+test_a_function_read_file_string (__main__.lab5a.test_a_function_read_file_string)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - function read_file_string fails without 1 argument ... ok
+test_b_function_read_file_list (__main__.lab5a.test_b_function_read_file_list)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - function read_file_list fails without 1 argument ... ok
+test_c_file_data_txt_exists (__main__.lab5a.test_c_file_data_txt_exists)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for file creation: ./data.txt ... ok
+test_d_file_data_txt_has_correct_text (__main__.lab5a.test_d_file_data_txt_has_correct_text)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for correct contents: ./data.txt ... ok
+test_e_function_read_file_string_correct_output (__main__.lab5a.test_e_function_read_file_string_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ERROR
+test_f_function_read_file_list_correct_output (__main__.lab5a.test_f_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ERROR
+test_g_function_read_file_list_correct_output (__main__.lab5a.test_g_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ERROR
+test_h_function_read_file_list_correct_output (__main__.lab5a.test_h_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ERROR
+test_0 (__main__.lab5b.test_0)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for file creation: ./lab5b.py ... ok
+test_a (__main__.lab5b.test_a)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for errors running: ./lab5b.py ... ok
+test_a1 (__main__.lab5b.test_a1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for correct shebang line: ./lab5b.py ... FAIL
+test_a_function_append_file_string (__main__.lab5b.test_a_function_append_file_string)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - function append_file_string fails without 2 argument ... ok
+test_a_function_read_file_string (__main__.lab5b.test_a_function_read_file_string)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - function read_file_string fails without 1 argument ... ok
+test_b_function_read_file_list (__main__.lab5b.test_b_function_read_file_list)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - function read_file_list fails without 1 argument ... ok
+test_c_function_write_file_list (__main__.lab5b.test_c_function_write_file_list)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - function write_file_list fails without 2 argument ... ok
+test_d_function_copy_file_add_line_numbers (__main__.lab5b.test_d_function_copy_file_add_line_numbers)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - function copy_file_add_line_numbers fails without 2 argument ... ok
+test_e_file_data_txt_exists (__main__.lab5b.test_e_file_data_txt_exists)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for file creation: ./data.txt ... ok
+test_f_file_data_txt_has_correct_text (__main__.lab5b.test_f_file_data_txt_has_correct_text)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for correct contents: ./data.txt ... ok
+test_g_function_read_file_string_correct_output (__main__.lab5b.test_g_function_read_file_string_correct_output)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ERROR
+test_h_function_read_file_list_correct_output (__main__.lab5b.test_h_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ERROR
+test_i_function_append_file_string_correct_output_1 (__main__.lab5b.test_i_function_append_file_string_correct_output_1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ERROR
+test_i_function_append_file_string_correct_output_2 (__main__.lab5b.test_i_function_append_file_string_correct_output_2)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ERROR
+test_j_function_write_file_list_correct_output_1 (__main__.lab5b.test_j_function_write_file_list_correct_output_1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ERROR
+test_j_function_write_file_list_correct_output_2 (__main__.lab5b.test_j_function_write_file_list_correct_output_2)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ERROR
+test_k_function_copy_file_add_line_numbers_correct_output_1 (__main__.lab5b.test_k_function_copy_file_add_line_numbers_correct_output_1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ERROR
+test_k_function_copy_file_add_line_numbers_correct_output_2 (__main__.lab5b.test_k_function_copy_file_add_line_numbers_correct_output_2)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ERROR
+test_k_function_copy_file_add_line_numbers_correct_output_3 (__main__.lab5b.test_k_function_copy_file_add_line_numbers_correct_output_3)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ERROR
+test_0 (__main__.lab5c.test_0)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for file creation: ./lab5c.py ... ok
+test_a (__main__.lab5c.test_a)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for errors running: ./lab5c.py ... ok
+test_a1 (__main__.lab5c.test_a1)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for correct shebang line: ./lab5c.py ... ok
+test_a_function_add (__main__.lab5c.test_a_function_add)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - function add fails without 2 argument ... ok
+test_b_function_read_file (__main__.lab5c.test_b_function_read_file)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - function read_file fails without 1 argument ... ok
+test_c_function_add_correct_output_1 (__main__.lab5c.test_c_function_add_correct_output_1)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_c_function_add_correct_output_2 (__main__.lab5c.test_c_function_add_correct_output_2)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_c_function_add_correct_output_3 (__main__.lab5c.test_c_function_add_correct_output_3)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_c_function_add_correct_output_4 (__main__.lab5c.test_c_function_add_correct_output_4)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_d_function_read_file_correct_output_1 (__main__.lab5c.test_d_function_read_file_correct_output_1)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... FAIL
+test_d_function_read_file_correct_output_2 (__main__.lab5c.test_d_function_read_file_correct_output_2)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+
+======================================================================
+ERROR: test_e_function_read_file_string_correct_output (__main__.lab5a.test_e_function_read_file_string_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 90, in test_e_function_read_file_string_correct_output
+    self.assertEqual(lab5aStudent.read_file_string(filename), answer, msg=error_output)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5a' has no attribute 'read_file_string'
+
+======================================================================
+ERROR: test_f_function_read_file_list_correct_output (__main__.lab5a.test_f_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 101, in test_f_function_read_file_list_correct_output
+    self.assertNotEqual(lab5aStudent.read_file_list(filename), answer, msg=error_output)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5a' has no attribute 'read_file_list'
+
+======================================================================
+ERROR: test_g_function_read_file_list_correct_output (__main__.lab5a.test_g_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 112, in test_g_function_read_file_list_correct_output
+    self.assertNotEqual(lab5aStudent.read_file_list(filename), answer, msg=error_output)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5a' has no attribute 'read_file_list'
+
+======================================================================
+ERROR: test_h_function_read_file_list_correct_output (__main__.lab5a.test_h_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 124, in test_h_function_read_file_list_correct_output
+    self.assertEqual(lab5aStudent.read_file_list(filename), answer, msg=error_output)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5a' has no attribute 'read_file_list'
+
+======================================================================
+ERROR: test_g_function_read_file_string_correct_output (__main__.lab5b.test_g_function_read_file_string_correct_output)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 205, in test_g_function_read_file_string_correct_output
+    self.assertEqual(lab5bStudent.read_file_string(filename), answer, msg=error_output)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5b' has no attribute 'read_file_string'
+
+======================================================================
+ERROR: test_h_function_read_file_list_correct_output (__main__.lab5b.test_h_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 216, in test_h_function_read_file_list_correct_output
+    self.assertEqual(lab5bStudent.read_file_list(filename), answer, msg=error_output)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5b' has no attribute 'read_file_list'
+
+======================================================================
+ERROR: test_i_function_append_file_string_correct_output_1 (__main__.lab5b.test_i_function_append_file_string_correct_output_1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 229, in test_i_function_append_file_string_correct_output_1
+    lab5bStudent.append_file_string(filename, string1)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5b' has no attribute 'append_file_string'
+
+======================================================================
+ERROR: test_i_function_append_file_string_correct_output_2 (__main__.lab5b.test_i_function_append_file_string_correct_output_2)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 245, in test_i_function_append_file_string_correct_output_2
+    lab5bStudent.append_file_string(filename, string1)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5b' has no attribute 'append_file_string'
+
+======================================================================
+ERROR: test_j_function_write_file_list_correct_output_1 (__main__.lab5b.test_j_function_write_file_list_correct_output_1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 262, in test_j_function_write_file_list_correct_output_1
+    lab5bStudent.write_file_list(filename, list1)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5b' has no attribute 'write_file_list'
+
+======================================================================
+ERROR: test_j_function_write_file_list_correct_output_2 (__main__.lab5b.test_j_function_write_file_list_correct_output_2)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 277, in test_j_function_write_file_list_correct_output_2
+    lab5bStudent.write_file_list(filename, list1)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5b' has no attribute 'write_file_list'
+
+======================================================================
+ERROR: test_k_function_copy_file_add_line_numbers_correct_output_1 (__main__.lab5b.test_k_function_copy_file_add_line_numbers_correct_output_1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 293, in test_k_function_copy_file_add_line_numbers_correct_output_1
+    lab5bStudent.copy_file_add_line_numbers(filename, tempfile)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5b' has no attribute 'copy_file_add_line_numbers'
+
+======================================================================
+ERROR: test_k_function_copy_file_add_line_numbers_correct_output_2 (__main__.lab5b.test_k_function_copy_file_add_line_numbers_correct_output_2)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 308, in test_k_function_copy_file_add_line_numbers_correct_output_2
+    lab5bStudent.copy_file_add_line_numbers(filename, tempfile)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5b' has no attribute 'copy_file_add_line_numbers'
+
+======================================================================
+ERROR: test_k_function_copy_file_add_line_numbers_correct_output_3 (__main__.lab5b.test_k_function_copy_file_add_line_numbers_correct_output_3)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 322, in test_k_function_copy_file_add_line_numbers_correct_output_3
+    lab5bStudent.copy_file_add_line_numbers(filename, tempfile)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'lab5b' has no attribute 'copy_file_add_line_numbers'
+
+======================================================================
+FAIL: test_a1 (__main__.lab5a.test_a1)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for correct shebang line: ./lab5a.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 54, in test_a1
+    self.assertEqual(first_line.strip(), '#!/usr/bin/env python3', msg=error_output)
+AssertionError: '' != '#!/usr/bin/env python3'
++ #!/usr/bin/env python3
+ : your program does not have a shebang line(HINT: what should the first line contain)
+
+======================================================================
+FAIL: test_a1 (__main__.lab5b.test_a1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for correct shebang line: ./lab5b.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 151, in test_a1
+    self.assertEqual(first_line.strip(), '#!/usr/bin/env python3', msg=error_output)
+AssertionError: '' != '#!/usr/bin/env python3'
++ #!/usr/bin/env python3
+ : your program does not have a shebang line(HINT: what should the first line contain)
+
+======================================================================
+FAIL: test_d_function_read_file_correct_output_1 (__main__.lab5c.test_d_function_read_file_correct_output_1)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mahtamonsef/lab-5-mahtamonsef/./CheckLab5.py", line 414, in test_d_function_read_file_correct_output_1
+    self.assertEqual(lab5cStudent.read_file(filename), answer, msg=error_output)
+AssertionError: 'error: could not read file' != ['Line 1\n', 'Line 2\n', 'Line 3\n'] : incorrect output(HINT: )
+
+----------------------------------------------------------------------
+Ran 41 tests in 0.068s
+
+FAILED (failures=3, errors=13)

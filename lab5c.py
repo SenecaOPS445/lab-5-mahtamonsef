@@ -13,9 +13,9 @@ def read_file(filename):
     # Read a file, return a list of all lines, if error return string 'error: could not read file'
     try:
         f = open(filename, 'r') # open the file in read mode 
-        list_of_lines = f.readlines()
+        list__line = f.readlines()
         f.close()
-        return list_of_lines 
+        return list__line  
     except FileNotFoundError: 
         return "error: could not read file"
 
